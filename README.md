@@ -135,6 +135,15 @@ align="left"
 <br/>
 <br/>
 
+## Spotify
+<div align="center">
+  <a href="https://open.spotify.com/user/qqp7jstqxr0pjwt860szvb0z1">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=qqp7jstqxr0pjwt860szvb0z1&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
 ### Projetos em destaque  
 
 - [**AcalmaTEA**](https://github.com/Errylan/AcalmaTEA) – App para suporte a autistas em crises/ App to support autistic people in crisis (React Native + React Navigation)  
