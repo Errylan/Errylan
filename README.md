@@ -56,19 +56,11 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
 
 <img 
   align="left" 
     alt="ReactNative"
-    title="React" 
+    title="React Native" 
     width="30px" 
     style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" 
@@ -76,7 +68,7 @@
 
 <img 
 align="left" 
-    alt="ReactNavigation"
+    alt="React Navigation"
     title="React" 
     width="30px" 
     style="padding-right: 10px;"
@@ -96,7 +88,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cpluspl
 
   <img
 align="left" 
-    alt="VSCode"
+    alt="VS Code"
     title="VSCode" 
     width="30px" 
     style="padding-right: 10px;"
