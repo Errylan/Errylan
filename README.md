@@ -144,7 +144,11 @@ align="left"
   />
 
 </p>
-          
+
+
+📌 Projetos em destaque
+- [AcalmaTEA](https://github.com/Errylan/AcalmaTEA) – App para suporte a autistas em crises (Feito com React Native e React Navigation)
+- [AcalmaTEA-PROTOTIPO](https://github.com/Errylan/AcalmaTEA-PROTOTIPO) – Protótipo do App (Feito com HTML, CSS e Javascript)
           
           
           
