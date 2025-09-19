@@ -13,7 +13,7 @@
 # Hello! My name is Érrylan 👋
 ### Full name: Érrylan Isaque Nascimento dos Santos
 ### Full Stack Programmer
-### baIFRN Computer Science 4/4 👨‍💻
+### IFRN Computer Science 4/4 👨‍💻
 ### 18 years old
 ### Mid-Level Computer Technician
 ### 🧩 Autistic (ASD) ♾️
