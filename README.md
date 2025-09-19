@@ -149,6 +149,22 @@ align="left"
 - [**AcalmaTEA**](https://github.com/Errylan/AcalmaTEA) – App para suporte a autistas em crises/ App to support autistic people in crisis (React Native + React Navigation)  
 - [**AcalmaTEA-PROTOTIPO**](https://github.com/Errylan/AcalmaTEA-PROTOTIPO) – Protótipo do App/App Prototype (HTML + CSS + JS)  
 
+<br/>
+<br/>
+
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
+  </a>
+</div>
+
+
 
 
 ###  Estatísticas/Stats
