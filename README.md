@@ -136,11 +136,26 @@ align="left"
 <br/>
 
 ## Spotify
-<div align="center">
-  <a href="https://open.spotify.com/user/qqp7jstqxr0pjwt860szvb0z1">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=qqp7jstqxr0pjwt860szvb0z1&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
+<table style="width:100%">
+  <tr>
+    <td align="left" width="50%">
+      <a href="https://open.spotify.com/user/qqp7jstqxr0pjwt860szvb0z1">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=qqp7jstqxr0pjwt860szvb0z1&count=5" alt="Spotify recently played" width="100%" />
+      </a>
+    </td>
+    <td align="right" width="50%">
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=qqp7jstqxr0pjwt860szvb0z1&redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=qqp7jstqxr0pjwt860szvb0z1&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true" alt="Spotify Now Playing" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+<br/>
+<br/>
+
+
 
 ###
 
