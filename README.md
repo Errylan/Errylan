@@ -6,7 +6,7 @@
 ### Técnico em nível médio em Informática
 ### 🧩 Autista(TEA) ♾️
 
-## Sobre mim: Sou um estudante de Informática. Desenvolvedor de sites e aplicativos mobile dentro da área Full-Stack. Programador dentro do Transtorno do Espectro Autista (TEA). Estudo atualmente no IFRN no curso de informática e pretendo publicar meus projetos e trabalhos por aqui. Estou em busca de trabalhos para desenvolver mais as minhas habilidades e ter mais experiências dentro da área.
+## Sobre mim: Sou um estudante de Informática. Desenvolvedor de sites e aplicativos mobile dentro da área Full-Stack. Programador dentro do Transtorno do Espectro Autista (TEA). Estudo atualmente no IFRN no curso de informática e pretendo publicar meus projetos e trabalhos por aqui. Estou em busca de trabalhos para desenvolver mais as minhas habilidades e ter mais experiências dentro da área. Também sei mexer com softwares de computadores e fazer manutenção de hardware.
 
 ## English
 
@@ -18,7 +18,7 @@
 ### Mid-Level Computer Technician
 ### 🧩 Autistic (ASD) ♾️
 
-## About me: I'm a Computer Science student. I develop websites and mobile applications in the Full-Stack area. I'm a programmer with Autism Spectrum Disorder (ASD). I'm currently studying Computer Science at IFRN and intend to publish my projects and work here. I'm looking for jobs to further develop my skills and gain more experience in the field.
+## About me: I'm a Computer Science student. I develop websites and mobile applications in the Full-Stack area. I'm a programmer with Autism Spectrum Disorder (ASD). I'm currently studying Computer Science at IFRN and intend to publish my projects and work here. I'm looking for jobs to further develop my skills and gain more experience in the field. I also know how to use computer software and do hardware maintenance.
 
 <br/>
 <br/>
