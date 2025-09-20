@@ -231,12 +231,6 @@ align="left"
   />
 <p>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://streak-stats.demolab.com/?user=Errylan&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="languages graph" 
-  />
 
 <img 
       align="right" 
