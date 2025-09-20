@@ -20,6 +20,42 @@
 
 ## About me: I'm a Computer Science student. I develop websites and mobile applications in the Full-Stack area. I'm a programmer with Autism Spectrum Disorder (ASD). I'm currently studying Computer Science at IFRN and intend to publish my projects and work here. I'm looking for jobs to further develop my skills and gain more experience in the field.
 
+<br/>
+<br/>
+
+## Minhas Redes Sociais e Contatos/ My Social Medias and Contacts
+
+<div> 
+  <a href="https://www.youtube.com/@errylannascimento6053" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/errylanisaque/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:estudos82020@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+<br/>
+<br/>
+
+
+## Spotify
+<table style="width:100%">
+  <tr>
+    <td align="left" width="50%">
+      <a href="https://open.spotify.com/user/qqp7jstqxr0pjwt860szvb0z1">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=qqp7jstqxr0pjwt860szvb0z1&count=5" alt="Spotify recently played" width="100%" />
+      </a>
+    </td>
+    <td align="right" width="50%">
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=qqp7jstqxr0pjwt860szvb0z1&redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=qqp7jstqxr0pjwt860szvb0z1&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true" alt="Spotify Now Playing" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+<br/>
+<br/>
+
+
 ## Linguagens e Tecnologias/ Languanges and Technologies
 
 <img 
@@ -132,28 +168,6 @@ align="left"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
           
 
-<br/>
-<br/>
-
-## Spotify
-<table style="width:100%">
-  <tr>
-    <td align="left" width="50%">
-      <a href="https://open.spotify.com/user/qqp7jstqxr0pjwt860szvb0z1">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=qqp7jstqxr0pjwt860szvb0z1&count=5" alt="Spotify recently played" width="100%" />
-      </a>
-    </td>
-    <td align="right" width="50%">
-      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=qqp7jstqxr0pjwt860szvb0z1&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=qqp7jstqxr0pjwt860szvb0z1&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true" alt="Spotify Now Playing" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-<br/>
-<br/>
 
 
 
