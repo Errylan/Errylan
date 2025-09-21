@@ -276,8 +276,17 @@ align="left"
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Errylan/Errylan/output/pacman-contribution-graph.svg">
 </picture>
 
+<br/>
+<br/>
+
 ###
 
+
+
+![Image](https://github.com/user-attachments/assets/a1a79c15-828b-4603-aebb-bf04982f2467)
+
+<br/>
+<br/>
 
 
 
