@@ -1,3 +1,9 @@
+<br> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=E65729&center=true&vCenter=true&random=false&width=1000&lines=Olá%2C+Mundo!;Meu+nome+e+Érrylan;Eu+estudo+Informatica+no+IFRN;No+Ensino+Médio+Técnico+Integrador;Sou+Brasileiro+🇧🇷;Bem-vindo+ao+Meu+Mundo+no+Github;The+Life+Of+A+Showman+❤️‍🔥+🧡)](https://git.io/typing-svg)
+
+<br>
+
 # Olá! Meu nome é Érrylan 👋
 ### Nome completo: Érrylan Isaque Nascimento dos Santos 
 ### Programador Full Stack
@@ -8,7 +14,15 @@
 
 ## Sobre mim: Sou um estudante de Informática no Ensino Médio Técnico Integrado. Desenvolvedor de sites e aplicativos mobile dentro da área Full-Stack. Programador dentro do Transtorno do Espectro Autista (TEA). Estudo atualmente no IFRN no curso de informática e pretendo publicar meus projetos e trabalhos por aqui. Estou em busca de trabalhos para desenvolver mais as minhas habilidades e ter mais experiências dentro da área. Também sei mexer com softwares de computadores e fazer manutenção de hardware.
 
+
+
 ## English
+
+<br> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=E65729&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+World!;My+name+is+Érrylan;I'm+student+of+Computer+Science;At+IFRN;At+Integrated+Technical+High+School;I'm+from+Brazil+🇧🇷;Welcome+To+My+GitHub+World;The+Life+Of+A+Showman+❤️‍🔥+🧡)](https://git.io/typing-svg)
+
+<br>
 
 # Hello! My name is Érrylan 👋
 ### Full name: Érrylan Isaque Nascimento dos Santos
@@ -28,6 +42,9 @@
 <img src="https://raw.githubusercontent.com/Errylan/Errylan/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<h2 align="center">Idiomas que falo ou conheço/Languages I Speak or Have Knowledge Of</h2>
+<h3 align="center">  🇧🇷 Portuguese/Português  | 🇺🇸 English/Inglês | 🇪🇸 Spanish/Espanhol </h3>
 
 
 ## Minhas Redes Sociais e Contatos/ My Social Medias and Contacts
