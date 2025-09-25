@@ -1,6 +1,7 @@
 <br> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=E65729&center=true&vCenter=true&random=false&width=1000&lines=Olá%2C+Mundo!;Meu+nome+e+Érrylan;Eu+estudo+Informatica+no+IFRN;No+Ensino+Médio+Técnico+Integrador;Sou+Brasileiro+🇧🇷;Bem-vindo+ao+Meu+Mundo+no+Github;The+Life+Of+A+Showman+❤️‍🔥+🧡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=E65729&center=true&vCenter=true&random=false&width=1000&lines=Olá,+Mundo!;Meu+nome+é+Érrylan;Eu+estudo+Informática+no+IFRN;No+Ensino+Médio+Técnico+Integrado;Sou+Brasileiro+🇧🇷;Bem-vindo+ao+Meu+Mundo+no+Github;The+Life+Of+A+Showman+❤️‍🔥+🧡)](https://git.io/typing-svg)
+
 
 <br>
 
