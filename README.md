@@ -221,8 +221,8 @@ align="left"
 
 ### Projetos em destaque/ Featured Projects   
 
-- [**Meu Portifólio*](https://errylan.github.io/MeuPortifolio/) – Portfólio Profissional/Professional Portfolio (HTML + CSS + JS)                     
-- [**Planta Baixa Interativa**](https://errylan.github.io/PlantaBaixaInterativa/) – Planta Baixa Interativa feita para Arquitetos (HTML + CSS + JS)  
+- [**Meu Portifólio**](https://errylan.github.io/MeuPortifolio/) – Portfólio Profissional/Professional Portfolio (HTML + CSS + JS)                     
+- [**Planta Baixa Interativa**](https://errylan.github.io/PlantaBaixaInterativa/) – Planta Baixa Interativa feita para Arquitetos/Interactive Floor Plan Made for Architects (HTML + CSS + JS)  
 
 
 <br/>
