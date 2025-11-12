@@ -9,7 +9,7 @@
 ### Nome completo: Érrylan Isaque Nascimento dos Santos 
 ### Programador Full Stack
 ### IFRN Informática 4/4 👨‍💻
-### 18 anos
+### 19 anos
 ### Técnico em nível médio em Informática
 ### 🧩 Autista(TEA) ♾️
 
@@ -29,7 +29,7 @@
 ### Full name: Érrylan Isaque Nascimento dos Santos
 ### Full Stack Programmer
 ### IFRN Computer Science 4/4 👨‍💻
-### 18 years old
+### 19 years old
 ### Mid-Level Computer Technician
 ### 🧩 Autistic (ASD) ♾️
 
@@ -38,17 +38,41 @@
 <br/>
 <br/>
 
+## Español
+<br> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=E65729&center=true&vCenter=true&random=false&width=1000&lines=¡Hola,+Mundo!;Mi+nombre+es+Érrylan;Yo+Estudio+Computación+en+IFRN;En+la+Escuela+Secundaria+Técnico+Integrado;Soy+Brasileño+🇧🇷;Bienvenidos+a+Mi+Mundo+en+Github;The+Life+Of+A+Showman+❤️‍🔥+🧡)](https://git.io/typing-svg)
+
+<br>
+
+# ¡Hola! Me llamo Érrylan 👋
+
+### Nombre completo: Érrylan Isaque Nascimento dos Santos
+### Programador Full Stack
+### IFRN Ciencias de la Computación 4/4 👨‍💻
+### 19 años
+### Técnico Informático de Nivel Medio
+### 🧩 Autista (TEA) ♾️
+
+## Sobre mí: Soy estudiante de Ciencias de la Computación en la Escuela Técnica Integrada. Desarrollo sitios web y aplicaciones móviles como programador Full-Stack. Soy programador y tengo Trastorno del Espectro Autista (TEA). Actualmente estudio Ciencias de la Computación en IFRN y mi intención es publicar mis proyectos y trabajar aquí. Busco empleo para seguir desarrollando mis habilidades y adquirir más experiencia en el sector. También sé usar software y realizar mantenimiento de hardware.
+
+
+<br/>
+<br/>
+
+
+
 #
 
 <img src="https://raw.githubusercontent.com/Errylan/Errylan/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<h2 align="center">Idiomas que falo ou conheço/Languages I Speak or Have Knowledge Of</h2>
+<h2 align="center">Idiomas que falo ou conheço/Languages I Speak or Have Knowledge Of/Idiomas que hablo o conozco/</h2>
 <h3 align="center">  🇧🇷 Portuguese/Português  | 🇺🇸 English/Inglês | 🇪🇸 Spanish/Espanhol </h3>
 
 
-## Minhas Redes Sociais e Contatos/ My Social Medias and Contacts
+## Minhas Redes Sociais e Contatos/ My Social Medias and Contacts/Mis redes sociales y contactos
 
 <div> 
   <a href="https://www.youtube.com/@errylannascimento6053" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -101,7 +125,7 @@
 <br/>
 
 
-## Linguagens e Tecnologias/ Languanges and Technologies
+## Linguagens e Tecnologias/ Languanges and Technologies/Idiomas y tecnologías
 
 <img 
     align="left" 
@@ -219,10 +243,10 @@ align="left"
 
 ###
 
-### Projetos em destaque/ Featured Projects   
+### Projetos em destaque/ Featured Projects /   Proyectos destacados
 
-- [**Meu Portifólio**](https://errylan.github.io/MeuPortifolio/) – Portfólio Profissional/Professional Portfolio (HTML + CSS + JS)                     
-- [**Planta Baixa Interativa**](https://errylan.github.io/PlantaBaixaInterativa/) – Planta Baixa Interativa feita para Arquitetos/Interactive Floor Plan Made for Architects (HTML + CSS + JS)  
+- [**Meu Portifólio**](https://errylan.github.io/MeuPortifolio/) – Portfólio Profissional/Professional Portfolio (HTML + CSS + JS)   /      Portafolio profesional (HTML + CSS + JS)            
+- [**Planta Baixa Interativa**](https://errylan.github.io/PlantaBaixaInterativa/) – Planta Baixa Interativa feita para Arquitetos/Interactive Floor Plan Made for Architects (HTML + CSS + JS)/  Plano interactivo para arquitectos (HTML + CSS + JS)
 
 
 <br/>
@@ -231,7 +255,7 @@ align="left"
 
 
 
-###  Estatísticas/Stats
+###  Estatísticas/Stats/Estadísticas
 <div>
 <p>
   <img 
