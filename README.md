@@ -8,12 +8,13 @@
 # Olá! Meu nome é Érrylan 👋
 ### Nome completo: Érrylan Isaque Nascimento dos Santos 
 ### Programador Full Stack
-### IFRN Informática 4/4 👨‍💻
+### Técnico | Informática 👨‍💻
+### IFRN TSI 1/5 👨‍💻
 ### 19 anos
 ### Técnico em nível médio em Informática
 ### 🧩 Autista(TEA) ♾️
 
-## Sobre mim: Sou um estudante de Informática no Ensino Médio Técnico Integrado. Desenvolvedor de sites e aplicativos mobile dentro da área Full-Stack. Programador dentro do Transtorno do Espectro Autista (TEA). Estudo atualmente no IFRN no curso de informática e pretendo publicar meus projetos e trabalhos por aqui. Estou em busca de trabalhos para desenvolver mais as minhas habilidades e ter mais experiências dentro da área. Também sei mexer com softwares de computadores e fazer manutenção de hardware.
+## Sobre mim: Sou técnico de Informática no Ensino Médio Técnico Integrado. Desenvolvedor de sites e aplicativos mobile dentro da área Full-Stack. Programador dentro do Transtorno do Espectro Autista (TEA). Estudo atualmente no IFRN na faculdade de Tecnologia de Sistemas para Internet e pretendo publicar meus projetos e trabalhos por aqui. Estou em busca de trabalhos para desenvolver mais as minhas habilidades e ter mais experiências dentro da área. Também sei mexer com softwares de computadores e fazer manutenção de hardware.
 
 
 
@@ -28,12 +29,13 @@
 # Hello! My name is Érrylan 👋
 ### Full name: Érrylan Isaque Nascimento dos Santos
 ### Full Stack Programmer
-### IFRN Computer Science 4/4 👨‍💻
+### Technician | Computer Science 👨‍💻
+### IFRN TSI 1/5 👨‍💻
 ### 19 years old
-### Mid-Level Computer Technician
+### Technical level in Computer Science
 ### 🧩 Autistic (ASD) ♾️
 
-## About me: I'm a Computer Science student at Integrated Technical High School. I develop websites and mobile applications in the Full-Stack area. I'm a programmer with Autism Spectrum Disorder (ASD). I'm currently studying Computer Science at IFRN and intend to publish my projects and work here. I'm looking for jobs to further develop my skills and gain more experience in the field. I also know how to use computer software and do hardware maintenance.
+## About me: I am a Computer Technician in Integrated Technical High School. I am a Full-Stack website and mobile application developer. I am also a programmer within the Autism Spectrum Disorder (ASD) field. I am currently studying Internet Systems Technology at IFRN and intend to publish my projects and work here. I am looking for work to further develop my skills and gain more experience in the field. I also know how to use computer software and perform hardware maintenance.
 
 <br/>
 <br/>
@@ -49,12 +51,13 @@
 
 ### Nombre completo: Érrylan Isaque Nascimento dos Santos
 ### Programador Full Stack
-### IFRN Ciencias de la Computación 4/4 👨‍💻
+### Técnico/a en Informática 👨‍💻
+### IFRN TSI 1/5 👨‍💻
 ### 19 años
-### Técnico Informático de Nivel Medio
+### Nivel técnico en Informática
 ### 🧩 Autista (TEA) ♾️
 
-## Sobre mí: Soy estudiante de Ciencias de la Computación en la Escuela Técnica Integrada. Desarrollo sitios web y aplicaciones móviles como programador Full-Stack. Soy programador y tengo Trastorno del Espectro Autista (TEA). Actualmente estudio Ciencias de la Computación en IFRN y mi intención es publicar mis proyectos y trabajar aquí. Busco empleo para seguir desarrollando mis habilidades y adquirir más experiencia en el sector. También sé usar software y realizar mantenimiento de hardware.
+## Sobre mí: Soy técnico informático en un instituto técnico integrado. Soy desarrollador full-stack de sitios web y aplicaciones móviles. También soy programador en el campo del trastorno del espectro autista (TEA). Actualmente estudio Tecnología de Sistemas de Internet en IFRN y tengo la intención de publicar mis proyectos y trabajos allí. Busco trabajo para seguir desarrollando mis habilidades y adquirir más experiencia en el sector. Además, sé usar software y realizar mantenimiento de hardware.
 
 
 <br/>
