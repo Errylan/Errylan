@@ -9,7 +9,7 @@
 ### Nome completo: Érrylan Isaque Nascimento dos Santos 
 ### Programador Full Stack
 ### Técnico | Informática 👨‍💻
-### IFRN TSI 1/5 👨‍💻
+### IFRN TSI 2/5 👨‍💻
 ### 19 anos
 ### Técnico em nível médio em Informática
 ### 🧩 Autista(TEA) ♾️
