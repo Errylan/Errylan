@@ -10,7 +10,7 @@
 ### Programador Full Stack
 ### Técnico | Informática 👨‍💻
 ### IFRN TSI 2/5 👨‍💻
-### 19 anos
+### 20 anos
 ### Técnico em nível médio em Informática
 ### 🧩 Autista(TEA) ♾️
 
@@ -31,7 +31,7 @@
 ### Full Stack Programmer
 ### Technician | Computer Science 👨‍💻
 ### IFRN TSI 1/5 👨‍💻
-### 19 years old
+### 20 years old
 ### Technical level in Computer Science
 ### 🧩 Autistic (ASD) ♾️
 
@@ -53,7 +53,7 @@
 ### Programador Full Stack
 ### Técnico/a en Informática 👨‍💻
 ### IFRN TSI 1/5 👨‍💻
-### 19 años
+### 20 años
 ### Nivel técnico en Informática
 ### 🧩 Autista (TEA) ♾️
 
